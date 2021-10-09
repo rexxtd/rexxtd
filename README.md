@@ -11,6 +11,7 @@ Oh, and yes if you want someone to collaborate with some new incredible projects
 <p align="center">
   <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
   <code><a href="https://openjfx.io/"><img alt="JavaFX" title="JavaFX" src="./assets/javafx.png" height="42"></a></code>
+  <code><a href="https://www.mysql.com/"><img alt="mySQL" title="mySQL" src="./assets/mysql.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C Sharp" title="C Sharp" src="./assets/csharp.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
