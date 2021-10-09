@@ -1,4 +1,4 @@
-<a href="https://github.com/rexxtd">![profile_presentation](./profile_presentation.gif)</a>
+<a href="https://github.com/rexxtd">![profile_presentation](./assets/profile_presentation.gif)</a>
 
 <h2 align="center"> 💬 About me 💬 </h2>
 
