@@ -3,7 +3,7 @@
 <h2 align="center"> 💬 About me 💬 </h2>
 
 I am <b>RexTD</b>, better known as 'Tuan Dat' 👨‍💻<br />
-I am <strong>Vietnamese</strong> guy who enjoy creating new things 🖥️, and currently studying at RMIT University 📚<br />
+I am <strong>Vietnamese</strong> guy who enjoy creating new things 🖥️, was majoring in Information Technology at RMIT University 📚<br />
 Constant learning new things 🤖, meeting ❤️ incredible people are my favourite activities.<br />
 Oh, and yes if you want someone to collaborate with some new incredible projects 📨, <b>I AM YOUR GUY⚙️</b>
 
@@ -18,7 +18,7 @@ Oh, and yes if you want someone to collaborate with some new incredible projects
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm currently learning: </h1>
+<h1 align="center"> Languages/Frameworks I'm currently learning/working on: </h1>
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/bootstrap.png" height="42"></a></code>
