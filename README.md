@@ -1,11 +1,11 @@
 <a href="https://github.com/rexxtd">![profile_presentation](./assets/profile_presentation.gif)</a>
 
-<h2 align="center"> 💬 About me 💬 </h2>
+<h2 align="center"> About me </h2>
 
-I am <b>RexTD</b>, better known as 'Tuan Dat' 👨‍💻<br />
-I am <strong>Vietnamese</strong> guy who enjoy creating new things 🖥️, was majoring in Information Technology at RMIT University 📚<br />
-Constant learning new things 🤖, meeting ❤️ incredible people are my favourite activities.<br />
-Oh, and yes if you want someone to collaborate with some new incredible projects 📨, <b>I AM YOUR GUY⚙️</b>
+I am <b>RexTD</b>, better known as 'Tuan Dat'<br />
+I am <strong>Vietnamese</strong> guy who enjoys creating new things, was majoring in Information Technology at RMIT University <br />
+Constant learning of new things, and meeting incredible people are my favorite activities.<br />
+Oh, and yes if you want someone to collaborate with some new incredible projects, <b>I AM YOUR GUY</b>
 
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>
 <p align="center">
