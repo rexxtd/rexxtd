@@ -15,12 +15,12 @@ Oh, and yes if you want someone to collaborate with some new incredible projects
   <code><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img alt="C Sharp" title="C Sharp" src="./assets/csharp.png" height="42"></a></code>
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
+  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm currently learning/working on: </h1>
+<h1 align="center"> Languages/Frameworks I am also working on: </h1>
 <p align="center">
-  <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="./assets/bootstrap.png" height="42"></a></code>
   <code><a href="https://spring.io/projects/spring-boot"><img alt="Spring" title="Spring" src="./assets/spring.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
